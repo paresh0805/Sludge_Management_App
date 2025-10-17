@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Sludge_Management_App",
-    "slug": "Sludge_Management_App",
+    "name": "Sludge Management App",
+    "slug": "sludge-management-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
